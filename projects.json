@@ -1,6 +1,6 @@
 [
 	{
-		"key": 1,
+		"id": 1,
 		"title": "Guess the",
 		"title2": "Dice Roll",
 		"subtitle": "A dice game",
@@ -13,7 +13,7 @@
 		"githubPagesLink": ""
 	},
 	{
-		"key": 2,
+		"id": 2,
 		"title": "Munch Web",
 		"title2": "Application",
 		"subtitle": "Student project using Django",
@@ -26,7 +26,7 @@
 		"githubPagesLink": ""
 	},
 	{
-		"key": 3,
+		"id": 3,
 		"title": "Color Scheme",
 		"title2": "Generator",
 		"subtitle": "A web app to generate a theme",
@@ -39,7 +39,7 @@
 		"githubPagesLink": "https://seabass189.github.io/color-scheme-generator"
 	},
 	{
-		"key": 4,
+		"id": 4,
 		"title": "Movie",
 		"title2": "Watchlist",
 		"subtitle": "Time to watch a movie!",
@@ -52,7 +52,7 @@
 		"githubPagesLink": "https://seabass189.github.io/movie-watchlist"
 	},
 	{
-		"key": 5,
+		"id": 5,
 		"title": "Competitive",
 		"title2": "Dice Game",
 		"subtitle": "First to 20 wins!",
