@@ -3,7 +3,7 @@
 		"title": "Guess the",
 		"title2": "Dice Roll",
 		"subtitle": "A dice game",
-		"img": "src\\ assets\\ projects\\ GuessDiceRoll.jpg",
+		"img": "src\\assets\\projects\\GuessDiceRoll.jpg",
 		"subImg": "src\\assets\\projects\\GuessDiceRoll.jpg",
 		"desc1": "This game asks a user to guess the number rolled by two six-sided dice. If the user guesses correctly, they win. If not, they lose. After playing, the user has the option of playing again.",
 		"desc2": "This game was my first exposure to Python. I used while loops, functions, if statements, and random number generators in its implementation.",
